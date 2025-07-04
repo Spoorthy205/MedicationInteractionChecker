@@ -16,7 +16,7 @@ An intelligent web app that checks for dangerous drug interactions based on pati
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/MedicationChecker.git
+git clone https://github.com/Spoorthy205/MedicationChecker.git
 cd MedicationChecker/app
 pip install -r ../requirements.txt
-py -m streamlit run medication_app.py
+py -m streamlit run app/medication_app.py
